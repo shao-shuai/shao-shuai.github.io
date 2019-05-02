@@ -11,18 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electronics and Information Engineering, Hunan University, China, 2011
+* M.S. in Åbo Akademi Univ, Finland, 2014
+[//]* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* 2016 - 2018: SZ DJI Technology Co., Ltd. In-house Patent Engineer
+  * Patent Licensing
+    * Performed detailed analysis of prosecution history, family member, litigation history including district court cases, ITC cases, PTAB cases of asserted patents
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
+* 2015 - 2016: Metis IP LLC
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
